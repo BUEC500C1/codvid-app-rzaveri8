@@ -1,14 +1,15 @@
 # COVID-19 APP
-### EC400 HW 7 
-### by Ruby Zaveri
+#### EC400 HW 7 
+#### by Ruby Zaveri
 
 ## Goals
 Use COVID-19 API to build mobile application that displays: 
-    - CODVID cases per country on a MAP
-    - CODVID cases per country Live on a MAP (changes)
-    - CODVID cases per country based on a date.
-    - Summary of total cases for the world
-    - Live Summary for the World
+
+- CODVID cases per country on a MAP
+- CODVID cases per country Live on a MAP (changes)
+- CODVID cases per country based on a date.
+- Summary of total cases for the world
+- Live Summary for the World
 
 
 ## Stretch Goals
